@@ -14,7 +14,7 @@ function sp_dashboard_widget_function() {
 	<li><strong>Author:</strong> Ian Anderson Gray / Select Performers.</li>
 	<li><strong>Hosting provider:</strong> <a href=\"http://selectperformers.com/\">Select Performers</a></li>
 	</ul><hr />
-	<iframe width='100%' height='300' frameborder='0' src='https://docs.google.com/spreadsheet/pub?key=ADDKEYHERE";
+	<iframe width='100%' height='300' frameborder='0' src='https://docs.google.com/spreadsheet/pub?key=ADDKEYHERE'";
 }
 
 function sp_add_dashboard_widgets() {
